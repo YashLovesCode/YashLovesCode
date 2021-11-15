@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Tensorflow models and dynamic websites**
 
-- 🌱 I’m currently learning **Advanced Tensorflow, Flask, Math and Express js using mongoose**
+- 🌱 I’m currently learning **Tensorflow, Flask, Math and Express js using mongoose**
 
 - 👯 I’m looking to collaborate on **Student led projects and competitions**
 
