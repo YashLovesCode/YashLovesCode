@@ -18,7 +18,7 @@ I primarily do App Development but i also like to meddle in Web Development. Som
  - [x] Learn new things 
  
  
- [![My github stats](https://github-readme-stats.vercel.app/api?username=ArnavBansal11&theme=radical)](https://github.com/endless-debugger/github-readme-stats)
+ [![My github stats](https://github-readme-stats.vercel.app/api?username=Endless-Debugger&theme=radical)](https://github.com/endless-debugger/github-readme-stats)
  
  I also love to do collaborative projects. Wanna collaborate with me on any project? Send an email to **yashtri22@gmail.com** and I will surely reply
  
