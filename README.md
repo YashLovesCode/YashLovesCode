@@ -12,7 +12,7 @@ I am a full stack web developer and machine learning enthusiast. Some of my prim
 ![](https://camo.githubusercontent.com/2f4267b88e85aa4d7137dd80bcb3358fc957d2cb8c0b904164de7dec509f614e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d457870726573732e6a732d3035313232413f7374796c653d666c6174266c6f676f3d65787072657373)
 
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Endless-Debugger&layout=compact)](https://github.com/tperm94/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Endless-Debugger&layout=compact)](https://github.com/Endless-Debugger/github-readme-stats)
  
  ##### I Like to ......
  
