@@ -4,7 +4,7 @@
 
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)
 
-I am a full stack web developer and machine learning enthusiast. Some of my primary skills include -
+I am a full stack web developer and machine learning enthusiast. Here's a list of the tech I use day to day:
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -31,19 +31,15 @@ I am a full stack web developer and machine learning enthusiast. Some of my prim
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Endless-Debugger&layout=compact)](https://github.com/Endless-Debugger/github-readme-stats)
  
- ##### I Like to ......
+ ##### I Like ......
  
- - [x] Code
- - [x] Play chess
- - [x] Cube 
- - [x] Learn new things 
- 
+ - [x] Typescript
+ - [x] Computer Vision
+ - [x] Open source
+ - [] CSS 
  
  [![My github stats](https://github-readme-stats.vercel.app/api?username=Endless-Debugger&theme=radical)](https://github.com/endless-debugger/github-readme-stats)
  
- I also love to do collaborative projects. Wanna collaborate with me on any project? Send an email to **yashtri22@gmail.com** and I will surely reply
- 
- Cya at the next competition! (Or if you shoot an invite for a project on my email, we may meet earlier. You know....)
 
 <!--
 **tperm94/tperm94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
