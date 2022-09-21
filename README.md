@@ -4,7 +4,7 @@
 
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)
 
-I am a full stack web developer and machine learning enthusiast. Here's a list of the tech I use day to day:
+I am a full stack web developer and machine learning enthusiast, and most of my projects are private. Here's a list of the tech I use day to day:
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
